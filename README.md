@@ -1,6 +1,6 @@
 # laleavuejs
-##2.
-###Using lifecycle hooks
+## 2. Features
+### Using lifecycle hooks
 beforeCreate 
 - Before instance initialization  
 Created
@@ -16,7 +16,7 @@ Updated
 beforeDestroy
 - vm.$destroy() called
 
-##4. Advanced Vue Aplications
+## 4. Advanced Vue Aplications
 ### Installing vue-cli and webpack
 ```
 npm install -g vue-cli
